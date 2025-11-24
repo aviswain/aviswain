@@ -1,12 +1,12 @@
 ## Howdy! 🤠
 
-I'm an undergrad student at UCLA studying Computer Science and Engineering.
+I'm an undergrad student studying Computer Science and Engineering at UCLA .
 
 - 🔭 I’m applying to internships right now.
 - 🌱 I recently built a program to clean up my Downloads folder. [Check it out]()!
 - 🧑‍💻 I'm looking for software engineering work. Feel free to reach out at aviswain1@gmail.com.
 
-- ⚡ Fun fact: don't worry, I am working on a better computer than the one in my pfp
+- ⚡ Fun fact: don't worry, I am working on a better computer than the one in my profile picture
 
 
 <!--
