@@ -6,6 +6,8 @@ I'm an undergrad student at UCLA studying Computer Science and Engineering.
 - 🌱 I recently built a program to clean up my Downloads folder. [Check it out]()!
 - 🧑‍💻 I'm looking for software engineering work. Feel free to reach out at aviswain1@gmail.com.
 
+- ⚡ Fun fact: don't worry, I am working on a better computer than the one in my pfp
+
 
 <!--
 **aviswain/aviswain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
