@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-I'm an undergrad student studying Computer Science and Engineering at UCLA .
+I'm an undergrad student studying Computer Science and Engineering at UCLA.
 
 - 🔭 I’m applying to internships right now.
 - 🌱 I'm currently learning backend development through small projects.
