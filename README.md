@@ -2,8 +2,7 @@
 
 I'm an undergrad student studying Computer Science and Engineering at UCLA.
 
-- 🔭 I’m applying to internships right now.
-- 🌱 I'm currently learning backend development through small projects.
+- 🌱 I'm currently learning Java through small projects.
 - 🧑‍💻 I recently built a program to clean up my Downloads folder using OpenAI. [Check it out](https://github.com/aviswain/HomeworkHeap)!
 - 💼 I'm looking for software engineering work — feel free to reach out at aviswain1@gmail.com.
 
